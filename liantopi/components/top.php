@@ -32,14 +32,15 @@
                             <i class="text-light-blue fas fa-map-marker-alt pr-2" style="opacity: 0;"></i> <?= $appContent->profileCity;?><br>
                         </a>
                         <br>
-                    <p> 
+                    
+                    <!--    <p> 
                         <a href="<?= $appContent->profileUrlFacebook;?>" target="new"><i class="text-light-blue pr-2 fa-lg fab fa-facebook-square"></i></a>
                         <a href="<?= $appContent->profileUrlInstagram;?>" target="new"><i class="text-light-blue pr-2 fa-lg fab fa-instagram"></i></a>
                         <a href="<?= $appContent->profileUrlTwitter;?>" target="new"><i class="text-light-blue pr-2 fa-lg fab fa-twitter-square"></i></a>
                         <a href="<?= $appContent->profileUrlLinkedin;?>" target="new"><i class="text-light-blue pr-2 fa-lg fab fa-linkedin"></i></a>
                         <a href="<?= $appContent->profileUrlYoutube;?>" target="new"><i class="text-light-blue pr-2 fa-lg fab fa-youtube"></i></a>
                         <a href="<?= $appContent->profileUrlGithub;?>" target="new"><i class="text-light-blue pr-2 fa-lg fab fa-github-square"></i></a>
-                    </p>
+                    </p> -->
                 </div>
 
 

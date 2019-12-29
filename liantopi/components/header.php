@@ -22,8 +22,8 @@
     <meta property='og:title' content='<?= $appContent->profileFirtsName;?> | <?= $appContent->profileOccupation;?> ' />
     <meta property='og:site_name' content='<?= $appContent->profileFirtsName;?> | <?= $appContent->profileOccupation;?>' />
     <meta name='twitter:domain' content='<?= $appContent->profileFirtsName;?> | <?= $appContent->profileOccupation;?> ' />
-    <meta property='og:image' content='https://kurriculum.herokuapp.com/photo_william_500x500.jpg' />
-    <meta name='twitter:image' content='https://kurriculum.herokuapp.com/photo_william_500x500.jpg' />
+    <meta property='og:image' content='https://kurriculum.herokuapp.com/liantopi/img/photo.jpg' />
+    <meta name='twitter:image' content='https://kurriculum.herokuapp.com/liantopi/img/photo.jpg' />
     <meta name='keywords' content='web, webdevelopment, development, css, coder, angular, javascript, jquery, less, sass, vscode, html, php, yii, git, github, gitlab, agile'>
     <meta name="p:domain_verify" content="57b866fc62fb0a2cd1b2fa11a8192ebb"/>
     <script type="application/ld+json">
@@ -32,7 +32,7 @@
             "@type": "Organization",
             "name": "<?= $appContent->profileFirtsName;?>",
             "url": "https://kurriculum.herokuapp.com",
-            "logo": "https://kurriculum.herokuapp.com/photo_william_500x500.jpg",
+            "logo": "https://kurriculum.herokuapp.com/liantopi/img/photo.jpg",
             "contactPoint": {
                 "@type": "ContactPoint",
                 "telephone": "+5595984082052",
@@ -48,7 +48,6 @@
     <meta property='og:locale ' content='es_ES ' />
     <meta name='twitter:card ' content='summary_large_image ' />
     <meta name="robots" content="index, follow">
-    <link rel="alternate" href="https://redsabana.com" hreflang="es-co" />
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.2/css/bootstrap.min.css" integrity="sha384-Smlep5jCw/wG7hdkwQ/Z5nLIefveQRIY9nfy6xoR1uRYBtpZgI6339F5dgvm/e9B" crossorigin="anonymous">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.9.0/css/all.css">
     <link rel="stylesheet" type="text/css" media="screen" href="styles/main.min.css" />
