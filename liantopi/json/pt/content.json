@@ -1,0 +1,31 @@
+{
+    "lang" : "pt-BR",
+    
+    "profileFirtsName" : "Liseth Andreina",
+    "profileLastName" : "Tovar de Pereira",
+    "profilePhone" : "+5541988864559",
+    "profileEmail" : "liantopi@gmail.com",
+    "profileAddress" : "Rua Tubarão, 491 - Borda Do Campo,",
+    "profileCity" : "São José dos Pinhais - PR, 83076-060, Brasil ",
+    "profileAddressUrl" : "https://www.google.com/maps/place/Rua+Tubar%C3%A3o,+491+-+Borda+Do+Campo,+S%C3%A3o+Jos%C3%A9+dos+Pinhais+-+PR,+83075-060/@-25.534619,-49.0899747,17z/data=!3m1!4b1!4m5!3m4!1s0x94dcf45a12134039:0x26c16c3a584efd9a!8m2!3d-25.534619!4d-49.087786",
+    "profileOccupation" : "Engenheiro químico",
+    "profileAge" : "36 anos",
+    "profileRelationship" : "Casada",
+    "profileNationality" : "Venezuelana",
+    "profileNationalityUrl": "https://servicos.receita.fazenda.gov.br/Servicos/CPF/ca/ResultadoAut.asp?cp=70873436296&cc=95DD.BFAF.6E59.245B&de=24102019&he=173314&dv=00&em=01",
+    
+    "profileUrlFacebook" : "https://www.facebook.com/pereirawe",
+    "profileUrlInstagram" : "https://www.instagram.com/pereirawe",
+    "profileUrlTwitter" : "https://www.twitter.com/pereirawe",
+    "profileUrlLinkedin" : "https://www.linkedin.com/in/pereirawe/",
+    "profileUrlYoutube" : "https://www.youtube.com/channel/UCa9ZqJQO3G7ORHntNroW78w",
+    "profileUrlGithub" : "https://github.com/pereirawe",
+
+    "appProfileTitle" : "PERFIL PROFISSIONAL",
+    "appProfile" : "Tenho experiência no design e desenvolvimento de aplicativos e sites, sistemas de carrinho de compras, sistemas para envio de notificações por email ou mensagens instantâneas, estações de transmissão de áudio on-line. Desenvolvimento de projetos com planejamento ágil e estruturas MVC e POO. Desenvolvi experiência no estabelecimento, monitoramento e verificação de metas em equipes de trabalho sob minha responsabilidade, com altos padrões de comprometimento, responsabilidade e honestidade. Também a atenção ao público e vendas. Eu estou familiarizado com técnicas para relatar desempenho, pontualidade e conformidade com as políticas trabalhistas.",
+
+    "appExperienceTitle" : "EXPERIÊNCIA PROFISSIONAL",
+    "appSkillsTitle" : "HABILIDADES",
+    "appEducationTitle" : "FORMAÇÃO ACADÊMICA",
+    "appAditionalEducationTitle" : "FORMAÇÃO ADICIONAL"
+}

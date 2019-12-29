@@ -1,0 +1,26 @@
+[
+    {
+        "name" : "HERMES RODRÍGUEZ",
+        "position": "Locutor - Voice Over",
+        "phone" :  "+57 301 4392305",
+        "email" :  "hermesalfonso.rodriguez@gmail.com"
+    },
+    {
+        "name" : "JOHNATTAN SANTACRUZ",
+        "position": "Administrador de Empresas",
+        "phone" :  "+57 319 5997376",
+        "email" :  "santacruzmj@gmail.com"
+    },
+    {
+        "name" : "HANS BECKER",
+        "position": "Administrador de Empresas",
+        "phone" :  "+57 320 3007000",
+        "email" :  "hansbecker@ledigcolombia.com"
+    },
+    {
+        "name" : "JOHN DUARTE",
+        "position": "Desarrollador",
+        "phone" :  "+57 350 4631866",
+        "email" :  "johnduarte7@gmail.com"
+    }
+]
