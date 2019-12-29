@@ -1,7 +1,7 @@
 <div id="top_header" class="container-fluid">
     <div class="row">
         <div class="col-md-3 p-0">
-            <img src="./img/photo_william.jpg" alt="" width="100%" data-aos="zoom-in">
+            <img src="./img/photo.jpg" alt="" width="100%" data-aos="zoom-in">
         </div>
         <div class="col-md-9">
             <div class="row">

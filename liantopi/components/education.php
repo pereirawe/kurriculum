@@ -7,7 +7,7 @@
     $grades = json_decode(file_get_contents('./json/'.$jsonLang.'education.json'));
     krsort($grades);
     foreach ($grades as $grade) {
-        echo '<div class="col-md-6  p-3 " data-aos="fade-up">
+        echo '<div class="col-md-12  p-3 " data-aos="fade-up">
             <div class="bgLight p-3">
                 <h5>'. $grade->title .'</h5>
                 <small>'. $grade->academy .'
