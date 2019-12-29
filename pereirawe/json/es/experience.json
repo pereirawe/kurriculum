@@ -1,0 +1,57 @@
+[
+    {
+        "title" : "ESPECIALISTA DE SOPORTE",
+        "company": "Asoc. Iglesia de Jesucristo SUD",
+        "period" :  "nov 2008 – mar 2012",
+        "description" :  "Recolección, análisis y creación de bases de datos para organizar informes de tipo administrativos. Atender al publico, configuración de equipos con Sistemas Operativos Windows y Office. Registro de movimientos y procesos financieros y conciliación de cuentas bajo presupuestos. Diseño de Publicidad."
+    },
+    {
+        "title" : "GERENTE DE MERCADOTECNIA",
+        "company": "Gold Events CA",
+        "period" :  "may 2012 – sep 2012",
+        "description" :  "Coordinación de equipo de Marketing, diseñar campañas de publicidad y ejecutarlas. Encargado de coordinar logística y estratégicamente el desarrollo de eventos y campañas para productos y marcas reconocidas."
+    },
+    {
+        "title" : "DIRECTOR GENERAL",
+        "company": "INSICA",
+        "period" :  "sep 2012 - mar 2016",
+        "description" :  "Coordinación de equipo de Marketing. Diseño y ejecución campañas. Implementación de E- Commerce. Cobranzas y Gerencia. Diseñador y administrador de sitios web y publicidad. Social Manager."
+    },
+    {
+        "title" : "LOCUTOR Y PRODUCTOR",
+        "company": "Ni Tan Temprano – FAMA 93.9 FM",
+        "period" :  "oct 2015 - oct 2017",
+        "description" :  "Producción y locución radial, ventas, gestión de redes sociales, y redacción de pautas publicitarias. Desarrollo de campañas y giras de medios. Social Manager. Edición y montaje. Web Master de la estación y soporte del servicio de streaming."
+    },
+
+    {
+        "title" : "DESARROLLADOR WEB MASTER",
+        "company": "Crescenty Internacional",
+        "period" :  "dic. 2017 - nov. 2018",
+        "description" :  "Desarrollo y Diseño Web. Control de Versiones Git, HTML5, CSS, jQuery, Javascript, MySQL y APIs de Redes Sociales. Planificación Agile. Aplicación de técnicas de programación enfocadas en potenciar SEO y marketing. Diseño y administración de Gestores de contenido Wordpress y Redes Sociales."
+    },
+    {
+        "title" : "DESARROLLADOR WEB PHP",
+        "company": "VetStore",
+        "period" :  "may. 2018 - nov. 2018",
+        "description" :  "Desarrollo y diseño de una Red Social basado en PHP nativo, con inicio de sesión validada por Facebook y Google, diseño e implementación de UI/UX para mas de 3000 usuarios activos. Implementación de sistemas de notificaciones y correos electrónicos en base a las actividades de los usuarios."
+    },
+    {
+        "title" : "DESARROLLADOR PHP",
+        "company": "QDit SAS",
+        "period" :  "mar 2019 - jun 2019",
+        "description" :  "Desarrollador PHP con Framework Yii con utilizando la arquitectura Modelo Vista Controlador (MVC) y Programación Orientada a Objeto (POO), Control de versiones Git, Planificación Agile, Soporte y mantenimiento de bases de datos Sql y de aplicación en servidores Linux."
+    },
+    {
+        "title" : "DESARROLLADOR PHP - SOPORTE",
+        "company": "Revanca",
+        "period" :  "mar. 2017 - Actualmente",
+        "description" :  "Desarrollo de un sistema de cotizaciones de compras masivas en Colombia y Venezuela. Control de Versiones Git, HTML5, CSS, jQuery, Javascript, MySQL y APIs. Envíos de notificaciones a correos y creación de reportes y archivos PDFs automáticamente."
+    },
+    {
+        "title" : "DESARROLLADOR WEB MASTER",
+        "company": "LEDCreativo",
+        "period" :  "mar. 2015 - Actualmente",
+        "description" :  "Diseño y desarrollo de aplicaciones y sitios web Freelance. Maquetación responsitiva Bootstrap. Mantenimiento y creación de bases de datos MySQL. Sistemas de automatizado de contenido para redes sociales. Soporte remoto en línea bilingüe. Email Marketing, SEO y capacitación a clientes. Diseño de elementos gráficos."
+    }
+]
