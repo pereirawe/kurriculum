@@ -19,9 +19,9 @@
     <link rel='canonical' href='https://kurriculum.herokuapp.com/' />
     <meta property='og:url' content='https://kurriculum.herokuapp.com/' />
     <meta name='description' property='og:description' content='Desarrollador WEB-PHP con experiencia en el diseño y desarrollo de aplicaciones y sitios web. Gestion y mantenimiento  de Bases de Datos, controles de versión, planificación Agile. Sistemas de contificaciones por correo y creacion de Archivos PDF autimatizados.' />
-    <meta property='og:title' content='William Pereira | <?= $appContent->profileOccupation;?> ' />
-    <meta property='og:site_name' content='William Pereira | <?= $appContent->profileOccupation;?>' />
-    <meta name='twitter:domain' content='William Pereira | <?= $appContent->profileOccupation;?> ' />
+    <meta property='og:title' content='<?= $appContent->profileFirtsName;?> | <?= $appContent->profileOccupation;?> ' />
+    <meta property='og:site_name' content='<?= $appContent->profileFirtsName;?> | <?= $appContent->profileOccupation;?>' />
+    <meta name='twitter:domain' content='<?= $appContent->profileFirtsName;?> | <?= $appContent->profileOccupation;?> ' />
     <meta property='og:image' content='https://kurriculum.herokuapp.com/photo_william_500x500.jpg' />
     <meta name='twitter:image' content='https://kurriculum.herokuapp.com/photo_william_500x500.jpg' />
     <meta name='keywords' content='web, webdevelopment, development, css, coder, angular, javascript, jquery, less, sass, vscode, html, php, yii, git, github, gitlab, agile'>
@@ -30,7 +30,7 @@
         {
             "@context": "http://schema.org",
             "@type": "Organization",
-            "name": "William Pereira",
+            "name": "<?= $appContent->profileFirtsName;?>",
             "url": "https://kurriculum.herokuapp.com",
             "logo": "https://kurriculum.herokuapp.com/photo_william_500x500.jpg",
             "contactPoint": {
