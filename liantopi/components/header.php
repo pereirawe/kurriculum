@@ -50,9 +50,9 @@
     <meta name="robots" content="index, follow">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.2/css/bootstrap.min.css" integrity="sha384-Smlep5jCw/wG7hdkwQ/Z5nLIefveQRIY9nfy6xoR1uRYBtpZgI6339F5dgvm/e9B" crossorigin="anonymous">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.9.0/css/all.css">
-    <link rel="stylesheet" type="text/css" media="screen" href="styles/main.min.css" />
-    <link rel="stylesheet" type="text/css" media="screen" href="styles/mobile.css" />
-    <link rel="stylesheet" type="text/css" media="print" href="styles/print.css" />
+    <link rel="stylesheet" type="text/css" media="screen" href="styles/main.min.css?#<?php echo time(); ?>" />
+    <link rel="stylesheet" type="text/css" media="screen" href="styles/mobile.css?#<?php echo time(); ?>" />
+    <link rel="stylesheet" type="text/css" media="print" href="styles/print.css?#<?php echo time(); ?>" />
     <!--AOS Animation-->
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
     <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
