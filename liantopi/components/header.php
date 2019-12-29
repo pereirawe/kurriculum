@@ -15,15 +15,15 @@
     <meta name="google-site-verification" content="3SG76lLQFKlBCwgvPw0fjQwHlxTBR612yW8BV5FhQZs" />
     <meta property='og:type' content='website' />
 
-    <title>William Pereira | <?= $appContent->profileOccupation;?> </title>
-    <link rel='canonical' href='https://pereirawe.herokuapp.com/' />
-    <meta property='og:url' content='https://pereirawe.herokuapp.com/' />
+    <title><?= $appContent->profileFirtsName;?> | <?= $appContent->profileOccupation;?> </title>
+    <link rel='canonical' href='https://kurriculum.herokuapp.com/' />
+    <meta property='og:url' content='https://kurriculum.herokuapp.com/' />
     <meta name='description' property='og:description' content='Desarrollador WEB-PHP con experiencia en el diseño y desarrollo de aplicaciones y sitios web. Gestion y mantenimiento  de Bases de Datos, controles de versión, planificación Agile. Sistemas de contificaciones por correo y creacion de Archivos PDF autimatizados.' />
     <meta property='og:title' content='William Pereira | <?= $appContent->profileOccupation;?> ' />
     <meta property='og:site_name' content='William Pereira | <?= $appContent->profileOccupation;?>' />
     <meta name='twitter:domain' content='William Pereira | <?= $appContent->profileOccupation;?> ' />
-    <meta property='og:image' content='https://pereirawe.herokuapp.com/photo_william_500x500.jpg' />
-    <meta name='twitter:image' content='https://pereirawe.herokuapp.com/photo_william_500x500.jpg' />
+    <meta property='og:image' content='https://kurriculum.herokuapp.com/photo_william_500x500.jpg' />
+    <meta name='twitter:image' content='https://kurriculum.herokuapp.com/photo_william_500x500.jpg' />
     <meta name='keywords' content='web, webdevelopment, development, css, coder, angular, javascript, jquery, less, sass, vscode, html, php, yii, git, github, gitlab, agile'>
     <meta name="p:domain_verify" content="57b866fc62fb0a2cd1b2fa11a8192ebb"/>
     <script type="application/ld+json">
@@ -31,8 +31,8 @@
             "@context": "http://schema.org",
             "@type": "Organization",
             "name": "William Pereira",
-            "url": "https://pereirawe.herokuapp.com",
-            "logo": "https://pereirawe.herokuapp.com/photo_william_500x500.jpg",
+            "url": "https://kurriculum.herokuapp.com",
+            "logo": "https://kurriculum.herokuapp.com/photo_william_500x500.jpg",
             "contactPoint": {
                 "@type": "ContactPoint",
                 "telephone": "+5595984082052",

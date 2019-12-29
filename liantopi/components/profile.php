@@ -1,13 +1,13 @@
     <div  id="profile">
         <div class="container-fluid"> 
             <div class="row ">
-                <div id="speach" class="col-md-8 p-5 ">
+                <div id="speach" class="col-md-12 p-5 ">
                     <h2><b><?= $appContent->appProfileTitle;?></b></h2>
                     <p class="">
                         <?= $appContent->appProfile;?>
                     </p>
                 </div>
-                <div id="habilities" class="col-md-4 p-5">
+                <!--<div id="habilities" class="col-md-4 p-5">
                     <h2><b>HABILIDADES</b></h2>
                             <table class="m-auto">
                                 <tr>
@@ -180,7 +180,7 @@
                                     </td>
                                 </tr>
                             </table>
-                        </div>
+                        </div>-->
                     </div>
             </div>
         </div>

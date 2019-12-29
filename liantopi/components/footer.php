@@ -1,4 +1,4 @@
-<div id="footer" class="container-fluid p-4">
+<!-- <div id="footer" class="container-fluid p-4">
     <div class="row">
         <div class="col-md-3">
             <a href="https://www.heroku.com/" target="new">Thank's to Heroku</a><br>
@@ -20,7 +20,7 @@
         </div>
     </div>
         
-</div>
+</div>-->
     <script>
         AOS.init();
     </script>
