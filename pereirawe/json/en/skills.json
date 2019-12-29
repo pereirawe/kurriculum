@@ -1,0 +1,54 @@
+[
+    {
+        "name" : "GIT",
+        "points": 4
+    },
+    {
+        "name" : "HTML 5",
+        "points": 5
+    },
+    {
+        "name" : "CSS 3",
+        "points": 5
+    },
+    {
+        "name" : "Bootstrap",
+        "points": 5
+    },
+    {
+        "name" : "PHP",
+        "points": 4
+    },
+    {
+        "name" : "Javascript",
+        "points": 4
+    },
+    {
+        "name" : "JQuery",
+        "points": 4
+    },
+    {
+        "name" : "AJAX",
+        "points": 3
+    },
+    {
+        "name" : "MySQL",
+        "points": 5
+    },
+    {
+        "name" : "Wordpress",
+        "points": 4
+    },
+    {
+        "name" : "Photoshop",
+        "points": 4
+    },
+    {
+        "name" : "Illustrator",
+        "points": 3
+    },
+    {
+        "name" : "LIVE Stream",
+        "points": 5
+    }
+]

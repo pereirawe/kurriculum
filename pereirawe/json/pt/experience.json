@@ -1,0 +1,66 @@
+[
+    {
+        "title" : "ESPECIALISTA DE SUPORTE",
+        "company": "Asoc. Iglesia de Jesucristo SUD",
+        "period" :  "nov 2008 – mar 2012",
+        "location" : "Maracaibo, Zulia, Venezuela",
+        "description" :  "Coleta, análise e criação de bancos de dados para organizar relatórios administrativos. Atender ao público, configuração de computadores com Windows e Office Operating Systems. Registro de movimentos e processos financeiros e conciliação de contas sob orçamento. Design Publicitário"
+    },
+    {
+        "title" : "GERENTE DE MARKETING",
+        "company": "Gold Events CA",
+        "period" :  "may 2012 – sep 2012",
+        "location" : "Maracaibo, Zulia, Venezuela",
+        "description" :  "Coordenação da equipe de marketing, criação de campanhas publicitárias e execução. Responsável por coordenar a logística e estrategicamente o desenvolvimento de eventos e campanhas para produtos e marcas reconhecidas."
+    },
+    {
+        "title" : "DIRETOR GERAL",
+        "company": "INSICA",
+        "period" :  "sep 2012 - mar 2016",
+        "location" : "Maracaibo, Zulia, Venezuela",
+        "description" :  "Coordenação de equipe de marketing. Design e execução de campanhas. Implementação de comércio eletrônico. Cobranças e Gerenciamento. Designer e administrador de sites e publicidade. Gerente social."
+    },
+    {
+        "title" : "LOCUTOR E PRODUTOR",
+        "company": "Ni Tan Temprano – FAMA 93.9 FM",
+        "period" :  "oct 2 015 - oct 2017",
+        "location" : "Maracaibo, Zulia, Venezuela",
+        "description" :  "Produção e palestras de rádio, vendas, gerenciamento de redes sociais e elaboração de diretrizes de publicidade. Desenvolvimento de campanhas e visitas à mídia. Gerente social Edição e montagem. Web Master da estação e suporte ao serviço de streaming."
+    },
+
+    {
+        "title" : "DESENVOLVEDOR WEB MASTER",
+        "company": "Crescenty Internacional",
+        "period" :  "dic. 2017 - nov. 2018",
+        "location" : "Bogotá, Colombia",
+        "description" :  "Desenvolvimento e Design Web Controle de versão Git, HTML5, CSS, jQuery, Javascript, MySQL e APIs de redes sociais. Planejamento ágil Aplicação de técnicas de programação focadas na promoção de SEO e marketing. Projeto e administração de gerenciadores de conteúdo Wordpress e redes sociais."
+    },
+    {
+        "title" : "DESENVOLVEDOR PHP",
+        "company": "VetStore",
+        "period" :  "may. 2018 - nov. 2018",
+        "location" : "Bogotá, Colombia",
+        "description" :  "Desenvolvimento e design de uma Rede Social baseada em PHP nativo, com login validado pelo Facebook e Google, design e implementação de UI / UX para mais de 3000 usuários ativos. Implementação de sistemas de notificação e email com base nas atividades do usuário."
+    },
+    {
+        "title" : "DESENVOLVEDOR PHP",
+        "company": "QDit SAS",
+        "period" :  "mar 2019 - oct. 2019",
+        "location" : "Bogotá, Colombia",
+        "description" :  "PHP Developer com Framework Yii com o uso do Model View Controller (MVC) e Programação Orientada a Objetos (OOP), Controle de Versão Git, Planejamento Ágil, Suporte e manutenção e implementação de Sql e bancos de dados de aplicativos em servidores da AWS."
+    },
+    {
+        "title" : "DESENVOLVEDOR PHP - SUPORTE REMOTO",
+        "company": "Revanca",
+        "period" :  "mar. 2017 - nov. 2019",
+        "location" : "Bogotá, Colombia",
+        "description" :  "Desenvolvimento de um sistema de cotações massivas de compras na Colômbia e Venezuela. Controle de versão Git, HTML5, CSS, jQuery, Javascript, MySQL e APIs. Enviar notificações para e-mails e criar relatórios e PDFs automaticamente."
+    },
+    {
+        "title" : "DESENVOLVEDOR E ASSESSOR DE MARKETING Free Lance",
+        "company": "LEDCreativo",
+        "period" :  "mar. 2012 - nov. 2019",
+        "location" : "Bogotá, Colombia",
+        "description" :  "Design e desenvolvimento de aplicativos e sites freelancers. Layout responsivo Bootstrap. Manutenção e criação de bancos de dados MySQL. Sistemas de conteúdo automatizados para redes sociais. Suporte remoto online bilíngue. Email Marketing, SEO e treinamento de clientes. Design de elementos gráficos."
+    }
+]
