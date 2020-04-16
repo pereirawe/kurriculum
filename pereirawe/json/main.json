@@ -1,0 +1,161 @@
+[
+    {
+        "names" : "William Enrique",
+        "surnames" : "Pereira Carrasquero",
+        "birthdate" : "1987-06-15",
+        "phone" : null ,
+        "mobile" : "+5541987603488",
+        "email" : "pereirawe@gmail.com",
+        "urlFacebook" : "https://www.facebook.com/pereirawe",
+        "urlInstagram" : "https://www.instagram.com/pereirawe",
+        "urlTwitter" : "https://www.twitter.com/pereirawe",
+        "urlLinkedin" : "https://www.linkedin.com/in/pereirawe/",
+        "urlYoutube" : "https://www.youtube.com/channel/UCa9ZqJQO3G7ORHntNroW78w",
+        "urlGithub" : "https://github.com/pereirawe",
+        "address" : {
+            "street" : "Rua Tubarão",
+            "number" : "491",
+            "city" : "São José dos Pinhais",
+            "departament" : "PR",
+            "cep":"83076-060",
+            "country" : "Brasil",
+            "url" : "https://www.google.com/maps/place/Rua+Tubar%C3%A3o,+491+-+Borda+Do+Campo,+S%C3%A3o+Jos%C3%A9+dos+Pinhais+-+PR,+83075-060/@-25.534619,-49.0899747,17z/data=!3m1!4b1!4m5!3m4!1s0x94dcf45a12134039:0x26c16c3a584efd9a!8m2!3d-25.534619!4d-49.087786"
+        },
+        "langs" : {
+            "en" : {
+                "occupation" : "PHP Developer",
+                "relationship" : "Married",
+                "nationality" : "venezuelan"
+            },
+            "es" : {
+                "occupation" : "Desarrollador PHP",
+                "relationship" : "Casado",
+                "nationality" : "venezolano"
+            },
+            "pt" : {
+                "occupation" : "Desenvolvedor PHP",
+                "relationship" : "Casal",
+                "nationality" : "venezuelano",
+                "profile" : "Tenho experiência no design e desenvolvimento de aplicativos e sites, sistemas de carrinho de compras, sistemas para envio de notificações por email ou mensagens instantâneas, estações de transmissão de áudio on-line. Desenvolvimento de projetos com planejamento ágil e estruturas MVC e POO. Desenvolvi experiência no estabelecimento, monitoramento e verificação de metas em equipes de trabalho sob minha responsabilidade, com altos padrões de comprometimento, responsabilidade e honestidade. Também a atenção ao público e vendas. Eu estou familiarizado com técnicas para relatar desempenho, pontualidade e conformidade com as políticas trabalhistas.",
+                "education" : [
+                    {
+                        "title" : "TÉCNICO EN INFORMÁTICA",
+                        "academy": "UNIR",
+                        "period" :  "mar 2012 – sep 2016",
+                        "location" : "Maracaibo, Zulia, Venezuela"
+                    },
+                    {
+                        "title" : "ENGENHEIRO ELETRÔNICO MENÇÃO TELECOMUNICAÇÕES",
+                        "academy": "URBE",
+                        "period" :  "sep. 2008 – 6to semestre",
+                        "location" : "Maracaibo, Zulia, Venezuela"
+                    }
+                ],
+                "experience" : [
+                    {
+                        "title" : "ESPECIALISTA DE SUPORTE",
+                        "company": "Asoc. Iglesia de Jesucristo SUD",
+                        "period" :  "nov 2008 – mar 2012",
+                        "location" : "Maracaibo, Zulia, Venezuela",
+                        "description" :  "Coleta, análise e criação de bancos de dados para organizar relatórios administrativos. Atender ao público, configuração de computadores com Windows e Office Operating Systems. Registro de movimentos e processos financeiros e conciliação de contas sob orçamento. Design Publicitário"
+                    },
+                    {
+                        "title" : "GERENTE DE MARKETING",
+                        "company": "Gold Events CA",
+                        "period" :  "may 2012 – sep 2012",
+                        "location" : "Maracaibo, Zulia, Venezuela",
+                        "description" :  "Coordenação da equipe de marketing, criação de campanhas publicitárias e execução. Responsável por coordenar a logística e estrategicamente o desenvolvimento de eventos e campanhas para produtos e marcas reconhecidas."
+                    },
+                    {
+                        "title" : "DIRETOR GERAL",
+                        "company": "INSICA",
+                        "period" :  "sep 2012 - mar 2016",
+                        "location" : "Maracaibo, Zulia, Venezuela",
+                        "description" :  "Coordenação de equipe de marketing. Design e execução de campanhas. Implementação de comércio eletrônico. Cobranças e Gerenciamento. Designer e administrador de sites e publicidade. Gerente social."
+                    },
+                    {
+                        "title" : "LOCUTOR E PRODUTOR",
+                        "company": "Ni Tan Temprano – FAMA 93.9 FM",
+                        "period" :  "oct 2 015 - oct 2017",
+                        "location" : "Maracaibo, Zulia, Venezuela",
+                        "description" :  "Produção e palestras de rádio, vendas, gerenciamento de redes sociais e elaboração de diretrizes de publicidade. Desenvolvimento de campanhas e visitas à mídia. Gerente social Edição e montagem. Web Master da estação e suporte ao serviço de streaming."
+                    },
+                
+                    {
+                        "title" : "DESENVOLVEDOR WEB MASTER",
+                        "company": "Crescenty Internacional",
+                        "period" :  "dic. 2017 - nov. 2018",
+                        "location" : "Bogotá, Colombia",
+                        "description" : "Desenvolvimento e Design Web Controle de versão Git, HTML5, CSS, jQuery, Javascript, MySQL e APIs de redes sociais. Planejamento ágil Aplicação de técnicas de programação focadas na promoção de SEO e marketing. Projeto e administração de gerenciadores de conteúdo Wordpress e redes sociais."
+                    },
+                    {
+                        "title" : "DESENVOLVEDOR PHP",
+                        "company": "VetStore",
+                        "period" :  "may. 2018 - nov. 2018",
+                        "location" : "Bogotá, Colombia",
+                        "description" :  "Desenvolvimento e design de uma Rede Social baseada em PHP nativo, com login validado pelo Facebook e Google, design e implementação de UI / UX para mais de 3000 usuários ativos. Implementação de sistemas de notificação e email com base nas atividades do usuário."
+                    },
+                    {
+                        "title" : "DESENVOLVEDOR PHP",
+                        "company": "QDit SAS",
+                        "period" :  "mar 2019 - oct. 2019",
+                        "location" : "Bogotá, Colombia",
+                        "description" :  "PHP Developer com Framework Yii com o uso do Model View Controller (MVC) e Programação Orientada a Objetos (OOP), Controle de Versão Git, Planejamento Ágil, Suporte e manutenção e implementação de Sql e bancos de dados de aplicativos em servidores da AWS."
+                    },
+                    {
+                        "title" : "DESENVOLVEDOR PHP - SUPORTE REMOTO",
+                        "company": "Revanca",
+                        "period" :  "mar. 2017 - nov. 2019",
+                        "location" : "Bogotá, Colombia",
+                        "description" :  "Desenvolvimento de um sistema de cotações massivas de compras na Colômbia e Venezuela. Controle de versão Git, HTML5, CSS, jQuery, Javascript, MySQL e APIs. Enviar notificações para e-mails e criar relatórios e PDFs automaticamente."
+                    },
+                    {
+                        "title" : "DESENVOLVEDOR E ASSESSOR DE MARKETING Free Lance",
+                        "company": "LEDCreativo",
+                        "period" :  "mar. 2012 - nov. 2019",
+                        "location" : "Bogotá, Colombia",
+                        "description" :  "Design e desenvolvimento de aplicativos e sites freelancers. Layout responsivo Bootstrap. Manutenção e criação de bancos de dados MySQL. Sistemas de conteúdo automatizados para redes sociais. Suporte remoto online bilíngue. Email Marketing, SEO e treinamento de clientes. Design de elementos gráficos."
+                    }
+                ],
+                "referencies" : [
+                    {
+                        "name" : "HERMES RODRÍGUEZ",
+                        "position": "Locutor - Voice Over",
+                        "phone" :  "+57 301 4392305",
+                        "email" :  "hermesalfonso.rodriguez@gmail.com"
+                    },
+                    {
+                        "name" : "JOHNATTAN SANTACRUZ",
+                        "position": "Administrador de Empresas",
+                        "phone" :  "+57 319 5997376",
+                        "email" :  "santacruzmj@gmail.com"
+                    },
+                    {
+                        "name" : "HANS BECKER",
+                        "position": "Administrador de Empresas",
+                        "phone" :  "+57 320 3007000",
+                        "email" :  "hansbecker@ledigcolombia.com"
+                    },
+                    {
+                        "name" : "JOHN DUARTE",
+                        "position": "Developer",
+                        "phone" :  "+57 350 4631866",
+                        "email" :  "johnduarte7@gmail.com"
+                    },
+                    {
+                        "name" : "NERIO STRUVE",
+                        "position": "Radio Host and Director",
+                        "phone" :  "+55 414 6176970",
+                        "email" :  "neriostruve@hotmail.com"
+                    },
+                    {
+                        "name" : "FELIX MATOS",
+                        "position": "Lawer",
+                        "phone" :  "+1 385-985-0508",
+                        "email" :  "felixmatos77@gmail.com"
+                    }
+                ]
+            }
+        }
+    }
+]
