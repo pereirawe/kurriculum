@@ -2,19 +2,23 @@
 @import url("https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300&display=swap");
 /** Variables */
 body {
-  color: #011627;
+  color: #2E3437;
 }
 
 .bgPrimary {
-  background: #2ec4b6;
+  background: #2C4059;
+}
+
+.bgSecondary {
+  background: #EF5151;
 }
 
 .bgSuccess {
-  background: #ff9f1c;
+  background: #FFD755;
 }
 
 .bgDark {
-  background: #011627;
+  background: #2E3437;
   color: #fdfffc;
 }
 
@@ -23,11 +27,27 @@ body {
 }
 
 .textPrimary {
-  color: #2ec4b6;
+  color: #2C4059;
+}
+
+.textSecondary {
+  color: #EF5151;
+}
+
+.textSuccess {
+  color: #FFD755;
+}
+
+.textLight {
+  color: #fdfffc;
+}
+
+.textDark {
+  color: #2E3437;
 }
 
 .shine {
-  color: #ff9f1c;
+  color: #FFD755;
 }
 
 .alignLeft {
@@ -38,86 +58,96 @@ body {
   text-align: right;
 }
 
-#top_header {
-  background: #011627;
+.alignCenter {
+  text-align: center;
+}
+
+#skills .fa-php {
+  color: #7377AD;
+}
+
+#skills .fa-html5 {
+  color: #DD4B25;
+}
+
+#skills .fa-css3 {
+  color: #254BDD;
+}
+
+#skills .fa-sass {
+  color: #C76494;
+}
+
+#skills .fa-less {
+  color: #17365E;
+}
+
+#skills .fa-js {
+  color: #E9D44D;
+}
+
+#skills .fa-database {
+  color: #FFD79F;
+}
+
+#skills .fa-laravel {
+  color: #F72C1F;
+}
+
+#skills .fa-npm {
+  color: #C53635;
+}
+
+#skills .fa-wordpress {
+  color: #207196;
+}
+
+#skills .fa-git {
+  color: #EB4D28;
+}
+
+#skills .fa-docker {
+  color: #2391E6;
+}
+
+#skills .fa-terminal {
+  color: #06F504;
+}
+
+#skills .fa-windows {
+  color: #0074CF;
+}
+
+#skills .fa-linux {
+  color: #000000;
+}
+
+#skills .fa-apple {
+  color: #B7BABB;
+}
+
+#skills .fa-poo {
+  color: #81502D;
+}
+
+#top a {
   color: #fdfffc;
 }
 
-#top_header h3 {
-  color: #e71d36;
-  color: red;
-}
-
-#top_header a {
-  color: #ff9f1c;
-}
-
-#profile #speach {
-  background: #2ec4b6;
-}
-
-#profile #speach h3 {
-  text-align: center;
-  color: #fdfffc;
-}
-
-#profile #speach p {
-  color: #011627;
-  font-size: 1.25rem;
-  font-weight: lighter;
-}
-
-#profile #habilities {
-  background: #f2f2f2f2;
-}
-
-#profile #habilities h2 {
-  text-align: center;
-}
-
-#experience #title {
-  text-align: center;
-}
-
-#education {
-  background: #e71d36;
-}
-
-#education #title {
-  text-align: center;
+#top div img {
+  border-radius: 50%;
 }
 
 #complementary {
-  background: #ff9f1c;
-}
-
-#complementary #title {
-  text-align: center;
+  background: #FFD755;
 }
 
 #complementary h5 {
-  color: #e71d36;
-}
-
-#references {
-  background: #011627;
-}
-
-#references #title {
-  text-align: center;
-}
-
-#references #title h2 {
-  text-align: center;
-  color: #fdfffc;
-}
-
-#references h5 {
-  color: #e71d36;
+  color: #EF5151;
 }
 
 #footer {
-  background: #011627;
+  background: #2E3437;
   color: #fdfffc;
 }
 
