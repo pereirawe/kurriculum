@@ -11,6 +11,6 @@
 <?php include_once('./partials/skills.php');?>
 <?php include_once('./partials/education.php');?>
 <?php include_once('./partials/experience.php');?>
-<?php include_once('./partials/complementary.php');?>
+<?php // include_once('./partials/complementary.php');?>
 <?php // include_once('./partials/references.php');?>
 <?php include_once('./partials/footer.php');?>
