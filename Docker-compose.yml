@@ -1,0 +1,18 @@
+version: "3.2"
+services:
+
+    kurriculum:
+        # build: ./
+        image: pereirawe/codetomika
+        container_name: kurriculum
+        privileged: true
+        ports:
+            - 8006:80
+        volumes:
+            - ./:/var/www/html
+        networks:
+            - internal
+
+networks:
+    internal:
+        driver: bridge
