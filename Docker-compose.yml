@@ -2,7 +2,6 @@ version: "3.2"
 services:
 
     kurriculum:
-        # build: ./
         image: pereirawe/codetomika
         container_name: kurriculum
         privileged: true

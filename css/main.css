@@ -1,0 +1,127 @@
+/** Fonts */
+@import url("https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300&display=swap");
+/** Variables */
+body {
+  color: #011627;
+}
+
+.bgPrimary {
+  background: #2ec4b6;
+}
+
+.bgSuccess {
+  background: #ff9f1c;
+}
+
+.bgDark {
+  background: #011627;
+  color: #fdfffc;
+}
+
+.bgLight {
+  background: #fdfffc;
+}
+
+.textPrimary {
+  color: #2ec4b6;
+}
+
+.shine {
+  color: #ff9f1c;
+}
+
+.alignLeft {
+  text-align: left;
+}
+
+.alignRight {
+  text-align: right;
+}
+
+#top_header {
+  background: #011627;
+  color: #fdfffc;
+}
+
+#top_header h3 {
+  color: #e71d36;
+  color: red;
+}
+
+#top_header a {
+  color: #ff9f1c;
+}
+
+#profile #speach {
+  background: #2ec4b6;
+}
+
+#profile #speach h3 {
+  text-align: center;
+  color: #fdfffc;
+}
+
+#profile #speach p {
+  color: #011627;
+  font-size: 1.25rem;
+  font-weight: lighter;
+}
+
+#profile #habilities {
+  background: #f2f2f2f2;
+}
+
+#profile #habilities h2 {
+  text-align: center;
+}
+
+#experience #title {
+  text-align: center;
+}
+
+#education {
+  background: #e71d36;
+}
+
+#education #title {
+  text-align: center;
+}
+
+#complementary {
+  background: #ff9f1c;
+}
+
+#complementary #title {
+  text-align: center;
+}
+
+#complementary h5 {
+  color: #e71d36;
+}
+
+#references {
+  background: #011627;
+}
+
+#references #title {
+  text-align: center;
+}
+
+#references #title h2 {
+  text-align: center;
+  color: #fdfffc;
+}
+
+#references h5 {
+  color: #e71d36;
+}
+
+#footer {
+  background: #011627;
+  color: #fdfffc;
+}
+
+#footer a {
+  color: #fdfffc;
+}
+/*# sourceMappingURL=main.css.map */

@@ -62,5 +62,13 @@
         "period" :  "mar. 2012 - nov. 2019",
         "location" : "Bogotá, Colombia",
         "description" :  "Design e desenvolvimento de aplicativos e sites freelancers. Layout responsivo Bootstrap. Manutenção e criação de bancos de dados MySQL. Sistemas de conteúdo automatizados para redes sociais. Suporte remoto online bilíngue. Email Marketing, SEO e treinamento de clientes. Design de elementos gráficos."
+    },
+    {
+        "title" : "DESENVOLVEDOR PHP",
+        "company": "Econet Editora Empresarial",
+        "period" :  "dec. 2019 - act.",
+        "location" : "Curitiba, Brasil",
+        "description" :  ""
     }
+
 ]
